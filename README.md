@@ -21,13 +21,12 @@ Welcome to our Medical Store E-commerce project! This repository contains the co
 
 🛠️ Tech Stack
 
--Frontend: ReactJS, Redux, React Router
+-Frontend: ReactJS
 
--Backend: Node.js, Express.js (for API integration)
+-Backend: Mysql
 
 -Database: MongoDB (for user and product data)
 
--Authentication: JWT (JSON Web Tokens) for secure user authentication
 
 
 🚧 Installation and Setup
